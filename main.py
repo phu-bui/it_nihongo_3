@@ -5,4 +5,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print("Hello world")
     print_hi('Phu Bui')
+    print("Im 21 years old")
 
